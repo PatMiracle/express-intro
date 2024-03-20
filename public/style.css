@@ -1,0 +1,17 @@
+body {
+  background: #f1f1f1;
+}
+#content {
+  display: grid;
+  gap: 1rem;
+  width: 80%;
+  max-width: 800px;
+  margin: 5rem auto;
+}
+#content div {
+  background: #fff;
+  padding: 1rem 0;
+  border-radius: 8px;
+  text-transform: capitalize;
+  text-align: center;
+}
